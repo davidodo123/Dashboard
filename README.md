@@ -1,4 +1,4 @@
 -HOME
-![HOME](/var/www/html/laravel/Dashboard/img/HOME.PNG)
+![HOME](Dashboard\img\HOME.PNG)
 - MI DASHBOARD
-![Dashboard](/var/www/html/laravel/Dashboard/img/DASHBOARD-DAVID.PNG)
+![Dashboard](Dashboard/img/DASHBOARD-DAVID.PNG)
